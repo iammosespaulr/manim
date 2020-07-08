@@ -1,6 +1,9 @@
 [submodule "eulerv2"]
 	path = eulerv2
-	url = ./eulerv2
+	url = ./Stuff/eulerv2
 [submodule "Danim"]
 	path = Danim
-	url = ./Danim
+	url = ./Stuff/Danim
+[submodule "AnimationsWithManim"]
+	path = AnimationsWithManim
+	url = ./Stuff/AnimationsWithManim
