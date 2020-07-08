@@ -1,0 +1,6 @@
+[submodule "eulerv2"]
+	path = eulerv2
+	url = ./eulerv2
+[submodule "Danim"]
+	path = Danim
+	url = ./Danim
